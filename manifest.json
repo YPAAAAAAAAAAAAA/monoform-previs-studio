@@ -1,0 +1,20 @@
+{
+  "id": "monoform-previs-studio",
+  "title": {
+    "en": "monoform-previs-studio",
+    "zh": "单形预演工作室"
+  },
+  "intro": {
+    "en": "Block a tiny film set: pose two actors, orbit the camera, and animate your shots with keyframes.",
+    "zh": "在微缩片场中摆放两位角色、调整姿势和镜头，用关键帧制作分镜预演。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/studio.css",
+    "vendor/studio.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/monoform-previs-studio"
+}
